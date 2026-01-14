@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Alte Uhle",
+    "description": "",
+    "home_page_url": "https://mywebsite.test",
+    "feed_url": "https://mywebsite.test/feed.json",
+    "user_comment": "",
+    "icon": "https://mywebsite.test/media/website/ChatGPT-Image-14.-Jan.-2026-16_49_23.png",
+    "author": {
+        "name": "InfraTeam"
+    },
+    "items": [
+    ]
+}

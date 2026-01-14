@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://mywebsite.test/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://mywebsite.test/</loc>
+</url>
+<url>
+<loc>https://mywebsite.test/das-alte-finanzamt.html</loc>
+<lastmod>2026-01-14T16:33:46+01:00</lastmod>
+<image:image>
+<image:loc>https://mywebsite.test/media/posts/2/hwiens-finanzamt.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://mywebsite.test/impressum-and-kontakt.html</loc>
+<lastmod>2026-01-14T16:36:28+01:00</lastmod>
+</url>
+<url>
+<loc>https://mywebsite.test/nutzungskonzept.html</loc>
+<lastmod>2026-01-14T16:34:25+01:00</lastmod>
+</url>
+<url>
+<loc>https://mywebsite.test/ueber-uns.html</loc>
+<lastmod>2026-01-14T16:29:39+01:00</lastmod>
+</url>
+</urlset>
