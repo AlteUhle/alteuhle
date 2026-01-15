@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Alte Uhle",
     "description": "",
-    "home_page_url": "https://AlteUhle.github.io/alteuhle",
-    "feed_url": "https://AlteUhle.github.io/alteuhle/feed.json",
+    "home_page_url": "https://alte-uhle.de",
+    "feed_url": "https://alte-uhle.de/feed.json",
     "user_comment": "",
-    "icon": "https://AlteUhle.github.io/alteuhle/media/website/ChatGPT-Image-14.-Jan.-2026-16_49_23.png",
+    "icon": "https://alte-uhle.de/media/website/ChatGPT-Image-14.-Jan.-2026-16_49_23.png",
     "author": {
         "name": "InfraTeam"
     },

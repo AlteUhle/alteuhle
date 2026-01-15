@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://AlteUhle.github.io/alteuhle/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://alte-uhle.de/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://AlteUhle.github.io/alteuhle/</loc>
+<loc>https://alte-uhle.de/</loc>
 </url>
 <url>
-<loc>https://AlteUhle.github.io/alteuhle/das-alte-finanzamt.html</loc>
+<loc>https://alte-uhle.de/das-alte-finanzamt.html</loc>
 <lastmod>2026-01-15T12:01:53+01:00</lastmod>
 <image:image>
-<image:loc>https://AlteUhle.github.io/alteuhle/media/posts/2/hwiens-finanzamt.jpg</image:loc>
+<image:loc>https://alte-uhle.de/media/posts/2/hwiens-finanzamt.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://AlteUhle.github.io/alteuhle/impressum-and-kontakt.html</loc>
+<loc>https://alte-uhle.de/impressum-and-kontakt.html</loc>
 <lastmod>2026-01-14T20:08:06+01:00</lastmod>
 </url>
 <url>
-<loc>https://AlteUhle.github.io/alteuhle/nutzungskonzept.html</loc>
+<loc>https://alte-uhle.de/nutzungskonzept.html</loc>
 <lastmod>2026-01-15T12:01:37+01:00</lastmod>
 </url>
 <url>
-<loc>https://AlteUhle.github.io/alteuhle/ueber-uns.html</loc>
+<loc>https://alte-uhle.de/ueber-uns.html</loc>
 <lastmod>2026-01-15T12:02:01+01:00</lastmod>
 </url>
 </urlset>
